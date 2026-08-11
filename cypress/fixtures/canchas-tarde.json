@@ -1,0 +1,26 @@
+{
+  "reservasDelDia": 0,
+  "canchas": [
+    {
+      "id": "C-07",
+      "nombre": "Cancha 7",
+      "tipo": "padel",
+      "hora": "16:00",
+      "valor": 15000
+    },
+    {
+      "id": "C-08",
+      "nombre": "Cancha 8",
+      "tipo": "padel",
+      "hora": "17:00",
+      "valor": 15000
+    },
+    {
+      "id": "C-09",
+      "nombre": "Cancha 9",
+      "tipo": "futbolito",
+      "hora": "16:30",
+      "valor": 20000
+    }
+  ]
+}
