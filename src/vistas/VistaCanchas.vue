@@ -19,8 +19,8 @@ const visibles = computed(() =>
     : canchas.value.filter((c) => c.tipo === tipo.value)
 )
 
-// Regla del complejo: cada socio toma como maximo 2 canchas al dia.
-const limiteAlcanzado = computed(() => reservasDelDia.value > LIMITE_DIARIO)
+// Regla del complejo: cada socio toma como máximo 2 canchas al día.
+const limiteAlcanzado = computed(() => reservasDelDia.value >= LIMITE_DIARIO)
 
 async function cargar() {
   cargando.value = true
