@@ -185,3 +185,4 @@ reservas-e2e/
 
 ## Para ver el resultado debes lanzar el backend en local, puedes ver el resultado parcial en:
 
+https://zakkdruzer.github.io/m7-l4-d3-reservas-e2e
