@@ -1,4 +1,3 @@
-// cypress/e2e/01-primeros-pasos.cy.js
 // Requisito 1: Abrir y mirar
 // - No escribimos en ningún campo.
 // - Solo comprobamos qué se ve en pantalla y la URL.

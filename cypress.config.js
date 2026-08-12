@@ -1,4 +1,3 @@
-// cypress.config.js
 import { defineConfig } from 'cypress'
 
 export default defineConfig({

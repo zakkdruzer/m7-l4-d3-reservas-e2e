@@ -1,4 +1,3 @@
-// cypress/e2e/03-lista.cy.js
 // Requisito 3: La lista y el filtro
 // - Contamos canchas, revisamos sus datos y probamos el filtro.
 // - Incluimos el estado vacío (filtro "tenis").

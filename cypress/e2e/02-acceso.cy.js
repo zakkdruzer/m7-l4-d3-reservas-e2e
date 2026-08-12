@@ -1,4 +1,3 @@
-// cypress/e2e/02-acceso.cy.js
 // Requisito 2: El acceso
 // - Probamos login correcto, incorrecto, Enter y salir.
 // - Usamos un beforeEach para dejar el sistema en estado conocido.
